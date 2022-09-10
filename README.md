@@ -1,2 +1,2 @@
-# softwareBase
-This is base for software built with laravel/PHP as backend and nextJs as frontend
+# BizoWIN
+Bizowin is all in one business solution for small, medium and large businesses
